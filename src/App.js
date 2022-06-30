@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  document.title = 'rent a girlfriend';
   return (
     <>
-     <h3>hello </h3> 
+      
     </>
   );
 }
